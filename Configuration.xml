@@ -234,6 +234,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>НовыйСправочник</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
