@@ -230,11 +230,13 @@
 			<CommonPicture>Услуги</CommonPicture>
 			<CommonPicture>Зарплата</CommonPicture>
 			<CommonPicture>Предприятие</CommonPicture>
+			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
-			<Catalog>НовыйСправочник</Catalog>
+			<Document>ПриходнаяНакладная</Document>
+			<Document>ОказаниеУслуг</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
