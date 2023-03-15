@@ -231,6 +231,7 @@
 			<CommonPicture>Зарплата</CommonPicture>
 			<CommonPicture>Предприятие</CommonPicture>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РаботаСоСправочниками</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -238,6 +239,7 @@
 			<Document>ПриходнаяНакладная</Document>
 			<Document>ОказаниеУслуг</Document>
 			<Report>Материалы</Report>
+			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
