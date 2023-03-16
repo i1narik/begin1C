@@ -85,6 +85,12 @@
 						<Event name="OnChange">ПереченьНоменклатурыНоменклатураПриИзменении</Event>
 					</Events>
 				</InputField>
+				<InputField name="ПереченьНоменклатурыСтоимость" id="44">
+					<DataPath>Объект.ПереченьНоменклатуры.Стоимость</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ПереченьНоменклатурыСтоимостьКонтекстноеМеню" id="45"/>
+					<ExtendedTooltip name="ПереченьНоменклатурыСтоимостьРасширеннаяПодсказка" id="46"/>
+				</InputField>
 				<InputField name="ПереченьНоменклатурыКоличество" id="35">
 					<DataPath>Объект.ПереченьНоменклатуры.Количество</DataPath>
 					<EditMode>EnterOnInput</EditMode>
