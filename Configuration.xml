@@ -240,9 +240,11 @@
 			<Document>ОказаниеУслуг</Document>
 			<Enum>ВидНоменклатуры</Enum>
 			<Report>Материалы</Report>
+			<Report>РеестрДокументовОказаниУслуг</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
+			<AccumulationRegister>Обороты</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

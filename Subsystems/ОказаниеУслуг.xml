@@ -28,6 +28,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.Материалы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Цены</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.СтоимостьМатериалов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Обороты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РеестрДокументовОказаниУслуг</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
